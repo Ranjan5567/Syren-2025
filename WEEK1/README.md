@@ -35,4 +35,4 @@ This week focused on building a strong foundation in data modeling and source co
 ## Schema Diagrams
 
 ![](SchemaDiagram/StarSchema.png)
-![](SchemaDiagram/StarSchema.png)
+![](SchemaDiagram/SnowflakeSchema.png)
